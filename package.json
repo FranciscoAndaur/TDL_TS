@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FranciscoAndaur/TDL_TS/issues"
   },
-  "homepage": "https://github.com/FranciscoAndaur/TDL_TS#readme"
+  "homepage": "https://github.com/FranciscoAndaur/TDL_TS#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
 }
