@@ -6,6 +6,17 @@
     "format": "prettier --write \"src/**/*.{ts,js}\"",
     "lint": "prettier --check \"src/**/*.{ts,js}\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoAndaur/TDL_TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoAndaur/TDL_TS/issues"
+  },
+  "homepage": "https://github.com/FranciscoAndaur/TDL_TS#readme",
   "dependencies": {
     "canvas-confetti": "^1.2.0"
   },
